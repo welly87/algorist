@@ -9,6 +9,5 @@ public class GenerateSubsetTest
 	{
 		var set = new SciSubset();
 		set.generate(new int[]{1, 2, 2});
-
 	}
 }
